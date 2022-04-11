@@ -3,7 +3,7 @@ const cliente = {
     idade: 36,
     cpf: "4521336987",
     email: "andre@email.com",
-    fones: ["254489963", "4521116887"]
+    fones: ["254489963", "4521116887"],
 }
 
 //Adicionando uma nova chave em cliente, que também é um objeto
